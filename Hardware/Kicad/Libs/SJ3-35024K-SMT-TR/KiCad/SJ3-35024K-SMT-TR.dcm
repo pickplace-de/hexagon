@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SJ3-35024K-SMT-TR
+D 3.5 mm Stereo Jack, Surface Mount, 4 Conductors, 4 Internal Switches,  Tape & Reel Packaging
+K
+F https://www.sameskydevices.com/product/resource/supplyframepdf/sj3-35024k-smt-tr.pdf
+$ENDCMP
+#
+#End Doc Library

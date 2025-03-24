@@ -1,0 +1,329 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1275479d-260c-4c72-a54e-11c5c84873ce")
+	(paper "A4" portrait)
+	(title_block
+		(title "Hexagon")
+		(company "Pickplace Consulting GmbH")
+	)
+	(lib_symbols)
+	(sheet
+		(at 100.33 154.94)
+		(size 16.51 13.97)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 212 255 189 1.0000)
+		)
+		(uuid "18b696bf-3a5e-4c90-88a7-711e695eb509")
+		(property "Sheetname" "ETHERNET"
+			(at 103.886 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Ethernet.kicad_sch"
+			(at 100.33 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RA8M1"
+				(path "/1275479d-260c-4c72-a54e-11c5c84873ce"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 138.43)
+		(size 15.24 13.97)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 212 255 189 1.0000)
+		)
+		(uuid "1b45876b-7a31-4ea9-8a61-5ded1d3fe7b8")
+		(property "Sheetname" "Power Supply"
+			(at 78.74 145.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PS.kicad_sch"
+			(at 77.47 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RA8M1"
+				(path "/1275479d-260c-4c72-a54e-11c5c84873ce"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 105.41)
+		(size 25.4 46.99)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 188 230 255 1.0000)
+		)
+		(uuid "58dcdb18-5f65-478f-a75f-c44c44f22480")
+		(property "Sheetname" "MCU"
+			(at 105.664 129.286 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 95.25 175.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RA8M1"
+				(path "/1275479d-260c-4c72-a54e-11c5c84873ce"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 121.92)
+		(size 15.24 13.97)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 212 255 189 1.0000)
+		)
+		(uuid "5edc9086-a8e3-4eab-a8f1-1fad2a5cade5")
+		(property "Sheetname" "QSPI"
+			(at 128.778 130.556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "QSPI.kicad_sch"
+			(at 123.19 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RA8M1"
+				(path "/1275479d-260c-4c72-a54e-11c5c84873ce"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 105.41)
+		(size 15.24 13.97)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 212 255 189 1.0000)
+		)
+		(uuid "7f99a99c-ad93-4e8f-97dc-54dd75659232")
+		(property "Sheetname" "SDRAM"
+			(at 127.762 113.538 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SDRAM.kicad_sch"
+			(at 123.19 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RA8M1"
+				(path "/1275479d-260c-4c72-a54e-11c5c84873ce"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 138.43)
+		(size 15.24 13.97)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 212 255 189 1.0000)
+		)
+		(uuid "9df6e35e-19cd-4563-be14-7907cb88ba0e")
+		(property "Sheetname" "CAN & RS485"
+			(at 123.952 146.304 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 123.19 152.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RA8M1"
+				(path "/1275479d-260c-4c72-a54e-11c5c84873ce"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 121.92)
+		(size 15.24 13.97)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 212 255 189 1.0000)
+		)
+		(uuid "bb277733-cd90-4b49-be48-9a6081756f83")
+		(property "Sheetname" "Audio"
+			(at 82.55 129.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Audio.kicad_sch"
+			(at 77.47 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RA8M1"
+				(path "/1275479d-260c-4c72-a54e-11c5c84873ce"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 105.41)
+		(size 15.24 13.97)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 212 255 189 1.0000)
+		)
+		(uuid "cf5928f2-eb5c-40d3-b982-8f17768ccad0")
+		(property "Sheetname" "Debug"
+			(at 82.042 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Debug.kicad_sch"
+			(at 77.47 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "RA8M1"
+				(path "/1275479d-260c-4c72-a54e-11c5c84873ce"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KSZ8851SNL-TR
+D Ethernet CTLR Single Chip 3.1V to 3.5V 32-Pin VQFN T/R - Tape and Reel
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en581700
+$ENDCMP
+#
+#End Doc Library

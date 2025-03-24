@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT93C46EN-SH-T
+D EEPROM 8 1.8V - 8 1.8V
+K
+F https://componentsearchengine.com/Datasheets/2/AT93C46EN-SH-T.pdf
+$ENDCMP
+#
+#End Doc Library

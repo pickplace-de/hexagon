@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S70FL01GSAGBHBC10
+D NOR Flash Serial (SPI, Dual SPI, Quad SPI) 3V/3.3V 1G-bit 128M x 8 8ns Automotive 24-Pin BGA Tray
+K
+F https://www.cypress.com/file/233721/download
+$ENDCMP
+#
+#End Doc Library

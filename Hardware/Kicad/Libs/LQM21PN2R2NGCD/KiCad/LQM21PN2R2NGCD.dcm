@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LQM21PN2R2NGCD
+D Inductor Shielded 2.2uH 800mA SMD 0805 Murata LQM Series Shielded Wire-wound SMD Inductor with a Ferrite Core Core, 2.2 uH +/-30% Wire-Wound 800mA Idc
+K
+F https://search.murata.co.jp/Ceramy/image/img/P02/JELF243B-0028.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 885012205092
+D 0.1 F +/-5% 50V Ceramic Capacitor X7R 0402 (1005 Metric)
+K
+F https://www.we-online.com/catalog/datasheet/885012205092.pdf
+$ENDCMP
+#
+#End Doc Library

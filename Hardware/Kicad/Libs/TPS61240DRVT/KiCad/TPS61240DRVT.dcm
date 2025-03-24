@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61240DRVT
+D Switching Voltage Regulators 5V 400mA 4MHz Step- Up DC/DC Cnvrtr
+K
+F https://www.ti.com/lit/gpn/TPS61240
+$ENDCMP
+#
+#End Doc Library

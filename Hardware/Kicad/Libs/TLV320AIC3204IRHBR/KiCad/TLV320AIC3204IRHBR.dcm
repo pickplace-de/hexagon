@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV320AIC3204IRHBR
+D Very-Low-Power Stereo Audio CODEC With PowerTune Technology
+K
+F http://www.ti.com/lit/gpn/tlv320aic3204
+$ENDCMP
+#
+#End Doc Library

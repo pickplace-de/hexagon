@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SJ3-35024K-SMT-TR
+#/19792558/1559971/2.50/8/2/Connector
+DEF SJ3-35024K-SMT-TR J 0 30 Y Y 1 F N
+F0 "J" 1750 300 50 H V L CNN
+F1 "SJ3-35024K-SMT-TR" 1750 200 50 H V L CNN
+F2 "SJ335024KSMTTR" 1750 100 50 H I L CNN
+F3 "https://www.sameskydevices.com/product/resource/supplyframepdf/sj3-35024k-smt-tr.pdf" 1750 0 50 H I L CNN
+F4 "3.5 mm Stereo Jack, Surface Mount, 4 Conductors, 4 Internal Switches,  Tape & Reel Packaging" 1750 -100 50 H I L CNN "Description"
+F5 "5.65" 1750 -200 50 H I L CNN "Height"
+F6 "179-SJ3-35024K-SMTTR" 1750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ3-35024K-SMT-TR?qs=IKkN%2F947nfAGeqZNQaFZ2g%3D%3D" 1750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Same Sky" 1750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SJ3-35024K-SMT-TR" 1750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X SLEEVE 1 0 0 200 R 50 50 0 0 P
+X RING_2 2 0 -100 200 R 50 50 0 0 P
+X RING_1 3 0 -200 200 R 50 50 0 0 P
+X TIP_SWITCH 4 0 -300 200 R 50 50 0 0 P
+X SLEEVE_SWITCH 5 1900 0 200 L 50 50 0 0 P
+X RING_2_SWITCH 6 1900 -100 200 L 50 50 0 0 P
+X RING_1_SWITCH 7 1900 -200 200 L 50 50 0 0 P
+X TIP 8 1900 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1700 100 1700 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

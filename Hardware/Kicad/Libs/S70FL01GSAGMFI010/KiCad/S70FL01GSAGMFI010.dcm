@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S70FL01GSAGMFI010
+D NOR Flash 1G 3V 133MHz Serial Flash
+K
+F https://www.infineon.com/dgdl/Infineon-S70FL01GS_1_Gbit_(128_Mbyte)_3_0V_SPI_Flash_Datasheet-DataSheet-v16_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0edb3adf5e12
+$ENDCMP
+#
+#End Doc Library
