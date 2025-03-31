@@ -1,0 +1,8 @@
+*.sch linguist-language=KiCad
+*.kicad_pcb linguist-language=KiCad
+*.pcbnew linguist-language=KiCad
+*.pro linguist-language=KiCad
+*.lib linguist-language=KiCad
+*.dcm linguist-language=KiCad
+*.gbr linguist-language=KiCad
+*.kicad_mod linguist-language=KiCad
