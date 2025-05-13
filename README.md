@@ -4,7 +4,7 @@ The board was designed as there was nothing similar meeting our demands at the m
 Along with Cortex®-M85 in BGA package the hardware design also includes:<br/>
 ✔ 8 MB SDRAM<br/>
 ✔ 32 MB QSPI<br/>
-✔ Stereo Audio Codec (for voice recognition aaplications development) with 3.5mm jack connector for headphones and microphone<br/>
+✔ Stereo Audio Codec (for voice recognition applications development) with 3.5mm jack connector for headphones and microphone<br/>
 ✔ USB interface with USB-C connector (MCU USB and/or power)<br/>
 ✔ Ethernet interface with RJ45<br/>
 ✔ CAN interface with D-SUB connector<br/>
