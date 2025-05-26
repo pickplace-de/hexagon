@@ -10,8 +10,8 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 100.33 154.94)
-		(size 16.51 13.97)
+		(at 95.25 138.43)
+		(size 15.24 13.97)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -21,7 +21,7 @@
 		)
 		(uuid "18b696bf-3a5e-4c90-88a7-711e695eb509")
 		(property "Sheetname" "ETHERNET"
-			(at 103.886 162.56 0)
+			(at 98.298 146.304 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "Ethernet.kicad_sch"
-			(at 100.33 169.4946 0)
+			(at 95.25 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60,7 +60,7 @@
 		)
 		(uuid "1b45876b-7a31-4ea9-8a61-5ded1d3fe7b8")
 		(property "Sheetname" "Power Supply"
-			(at 78.74 145.288 0)
+			(at 78.486 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -89,7 +89,7 @@
 	)
 	(sheet
 		(at 95.25 105.41)
-		(size 25.4 46.99)
+		(size 15.24 30.48)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -99,7 +99,7 @@
 		)
 		(uuid "58dcdb18-5f65-478f-a75f-c44c44f22480")
 		(property "Sheetname" "MCU"
-			(at 105.664 129.286 0)
+			(at 100.584 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -127,7 +127,7 @@
 		)
 	)
 	(sheet
-		(at 123.19 121.92)
+		(at 113.03 121.92)
 		(size 15.24 13.97)
 		(stroke
 			(width 0.1524)
@@ -138,7 +138,7 @@
 		)
 		(uuid "5edc9086-a8e3-4eab-a8f1-1fad2a5cade5")
 		(property "Sheetname" "QSPI"
-			(at 128.778 130.556 0)
+			(at 118.364 130.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -148,7 +148,7 @@
 			)
 		)
 		(property "Sheetfile" "QSPI.kicad_sch"
-			(at 123.19 137.7446 0)
+			(at 113.03 137.7446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -166,7 +166,7 @@
 		)
 	)
 	(sheet
-		(at 123.19 105.41)
+		(at 113.03 105.41)
 		(size 15.24 13.97)
 		(stroke
 			(width 0.1524)
@@ -177,7 +177,7 @@
 		)
 		(uuid "7f99a99c-ad93-4e8f-97dc-54dd75659232")
 		(property "Sheetname" "SDRAM"
-			(at 127.762 113.538 0)
+			(at 117.602 113.792 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -187,7 +187,7 @@
 			)
 		)
 		(property "Sheetfile" "SDRAM.kicad_sch"
-			(at 123.19 119.9646 0)
+			(at 113.03 119.9646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -205,7 +205,7 @@
 		)
 	)
 	(sheet
-		(at 123.19 138.43)
+		(at 113.03 138.43)
 		(size 15.24 13.97)
 		(stroke
 			(width 0.1524)
@@ -216,7 +216,7 @@
 		)
 		(uuid "9df6e35e-19cd-4563-be14-7907cb88ba0e")
 		(property "Sheetname" "CAN & RS485"
-			(at 123.952 146.304 0)
+			(at 113.792 146.304 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -226,7 +226,7 @@
 			)
 		)
 		(property "Sheetfile" "CAN.kicad_sch"
-			(at 123.19 152.9846 0)
+			(at 113.03 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
